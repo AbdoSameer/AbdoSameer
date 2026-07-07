@@ -1,14 +1,18 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=650&height=50&lines=Hi+%F0%9F%91%8B+I'm+Abdelrahman+Sameer" alt="Typing SVG Line 1" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=false&width=650&height=60&lines=Hi+%F0%9F%91%8B+I'm+Abdelrahman+Sameer" alt="Typing SVG Line 1" />
   </a>
-  <br/>
+</h1>
+
+<h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=650&height=50&lines=Back-End+Developer+%7C+.NET+Core" alt="Typing SVG Line 2" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=false&width=650&height=60&lines=+;Back-End+Developer+%7C+.NET+Core" alt="Typing SVG Line 2" />
   </a>
-  <br/>
+</h1>
+
+<h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FB923C&center=true&vCenter=true&repeat=true&width=650&height=50&lines=Building+Scalable+Web+Applications" alt="Typing SVG Line 3" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=6500&pause=1000&color=FB923C&center=true&vCenter=true&repeat=false&width=650&height=60&lines=+;+;Building+Scalable+Web+Applications" alt="Typing SVG Line 3" />
   </a>
 </h1>
 
