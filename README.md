@@ -75,6 +75,7 @@ Academic management system with role-based access control, course management, an
   <img src="https://github-readme-stats-beta-three-0oa387ons3.vercel.app/api?username=AbdoSameer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats-beta-three-0oa387ons3.vercel.app/api/top-langs/?username=AbdoSameer&layout=compact&theme=tokyonight&hide_border=true&hide=HTML,CSS,Jupyter%20Notebook,Dockerfile&langs_count=8" alt="Top Languages" height="165"/>
 </p>
+
 ## Experience & Certifications
 
 - **Digital Egypt Pioneers Program** - .NET Web Developer (Apr 2024 - Oct 2024)  
