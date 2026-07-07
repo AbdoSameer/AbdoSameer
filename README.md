@@ -73,7 +73,7 @@ Academic management system with role-based access control, course management, an
 ## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-beta-three-0oa387ons3.vercel.app/api?username=AbdoSameer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats-beta-three-0oa387ons3.vercel.app/api/top-langs/?username=AbdoSameer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=AbdoSameer&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdoSameer&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
