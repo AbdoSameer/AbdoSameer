@@ -76,10 +76,6 @@ Academic management system with role-based access control, course management, an
   <img src="https://github-readme-stats-beta-three-0oa387ons3.vercel.app/api/top-langs/?username=AbdoSameer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AbdoSameer&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## Experience & Certifications
