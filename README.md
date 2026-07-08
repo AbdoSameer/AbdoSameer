@@ -26,7 +26,7 @@
 
 ## About Me
 
-Computer Science graduate from **Misr University for Science and Technology** specializing in backend and full-stack development using **.NET Core**. Strong foundation in algorithms, system design, and modern web technologies, with practical experience building scalable applications and AI-driven systems.
+Computer Science graduate from **Misr University for Science and Technology** specializing in backend and full-stack development using **.NET Core**. Strong foundation in algorithms, system design, and modern web technologies, with practical experience building scalable applications .
 
 - Based in **Cairo, Egypt**
 - Completed **Digital Egypt Pioneers Program** (.NET Web Developer)
