@@ -72,6 +72,7 @@ Production-grade full-stack event ticketing platform built with **Clean Architec
 - **Payments** — **Stripe Checkout** integration (with mock gateway for dev) and deferred (Fawry) payment flow
 - **Caching** — Redis cache-aside layer with graceful degradation and post-commit invalidation
 - **Security** — JWT auth with role-based authorization (Admin / Organizer / Attendee)
+- **Observability** — end-to-end distributed tracing via correlation/causation IDs across HTTP → handler → outbox → background jobs, with structured logging pipeline behaviors
 - **Testing** — 3-tier test pyramid (~111 tests) with **Testcontainers**, Respawn, and barrier-synchronized concurrency tests
 
 **Tech:** .NET 9, ASP.NET Core Web API, MediatR, FluentValidation, EF Core 9, MS SQL Server, Redis, Stripe, WebSockets, JWT, Angular 19, TypeScript, D3.js, Tailwind CSS
