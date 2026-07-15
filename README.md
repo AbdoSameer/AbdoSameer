@@ -63,9 +63,18 @@ Computer Science graduate from **Misr University for Science and Technology** sp
 ## Featured Projects
 
 ### [Eventiy - Event Ticketing Platform](https://github.com/AbdoSameer/Eventiy)
-Full-stack event ticketing and booking platform built with **Clean Architecture** and **Domain-Driven Design**. Handles up to 50,000 seats per event with zero overselling under concurrent traffic using atomic transactions, Outbox pattern, and CQRS with MediatR. Features Redis caching, JWT auth, role-based access, and dead-letter retry handling.
+Production-grade full-stack event ticketing platform built with **Clean Architecture** and strict **Domain-Driven Design**. Handles up to 50,000 seats per event with zero overselling under concurrent booking traffic. Key highlights:
 
-**Tech:** .NET 9, ASP.NET Core Web API, MediatR, FluentValidation, EF Core, MS SQL Server, Redis, JWT, Angular, TypeScript, Tailwind CSS
+- **Real-time seat selection** — WebSocket seat locking with **Redis Pub/Sub** cross-instance broadcasting and an interactive **D3.js** SVG venue/seating chart
+- **Concurrency safety** — SQL Server `rowversion` optimistic concurrency with 3-attempt retry, atomic seat-reservation transactions
+- **Asynchronous reliability** — Transactional **Outbox** pattern with background polling, dead-letter queue, idempotency guards, and exponential-backoff retries
+- **CQRS + pipelines** — MediatR command/query separation with FluentValidation and logging pipeline behaviors, Result pattern instead of exceptions
+- **Payments** — **Stripe Checkout** integration (with mock gateway for dev) and deferred (Fawry) payment flow
+- **Caching** — Redis cache-aside layer with graceful degradation and post-commit invalidation
+- **Security** — JWT auth with role-based authorization (Admin / Organizer / Attendee)
+- **Testing** — 3-tier test pyramid (~111 tests) with **Testcontainers**, Respawn, and barrier-synchronized concurrency tests
+
+**Tech:** .NET 9, ASP.NET Core Web API, MediatR, FluentValidation, EF Core 9, MS SQL Server, Redis, Stripe, WebSockets, JWT, Angular 19, TypeScript, D3.js, Tailwind CSS
 
 ---
 
